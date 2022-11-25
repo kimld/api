@@ -1,4 +1,7 @@
 {
+  "scripts": {
+     "build":"node app.js"
+  },
   "dependencies": {
     "@escook/express-joi": "^1.1.1",
     "@hapi/joi": "^17.1.1",
